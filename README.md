@@ -1,4 +1,4 @@
-# **🌍 Sistema Completo de Previsão de Terremotos \- Japão **
+# 🌍 Sistema Completo de Previsão de Terremotos \- Japão
 
 Este projeto apresenta um sistema abrangente de Machine Learning para a previsão e análise sísmica, com foco específico na região do Japão. Utilizando dados em tempo real da API do USGS, ele oferece um pipeline completo desde a coleta de dados até a geração de relatórios interativos e monitoramento em tempo real.
 
