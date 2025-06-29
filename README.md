@@ -75,6 +75,3 @@ A previsão de terremotos é um desafio científico extremamente complexo e em c
 
 Contribuições são bem-vindas\! Sinta-se à vontade para abrir issues ou pull requests para melhorias, novas funcionalidades ou correção de bugs.
 
-## **📜 Licença**
-
-\[Seu tipo de licença, ex: MIT License\] \- (Adicione um link para o arquivo de licença, se aplicável)
